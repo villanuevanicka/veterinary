@@ -102,7 +102,7 @@ i {
 }
 .pimg2 {
 	min-height: 50vh;
-	background-image: url(../IMAGES/portfolio/title.jpg);
+	background-image: url(../images/portfolio/title.jpg);
 	background-size: cover;
 }
 .sticky {
