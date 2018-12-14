@@ -179,7 +179,7 @@ body {
 	min-height: 70vh;
 	background-image: url(../images/index/strength1.jpg);
 	background-size: cover;
-	z-index: 0;
+	z-index: 1;
 }
 /* SHOWCASE SECTION */
 .showcase{
